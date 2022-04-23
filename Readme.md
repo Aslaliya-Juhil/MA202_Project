@@ -13,3 +13,5 @@ The file s.py contains the implementation of Bezier curves to draw an 'S' charac
 The file custom.py is the interactive file in which the user can enter the number of control points, coordinates of the points and choose whether they want to draw Bezier curve or a B-spline of order 0, 1, 2 or 3.
 
 The file differance.py is the file in which I have tried to show the differance in the spline when one of the control points is changed, with Bezier curve and B-splines given as a choice to the user.
+
+The file iitgn.py traces the IITGN logo using bezier curves.
